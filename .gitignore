@@ -1,0 +1,13 @@
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.log
+*.db
+*.db-shm
+*.db-wal
+filled/
+*.docx
+*.zip
+Инструкция*.docx
+АвтоДок*.docx
