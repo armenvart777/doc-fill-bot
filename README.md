@@ -39,3 +39,8 @@ python bot.py
 BOT_TOKEN=  # токен от @BotFather
 ADMIN_IDS=  # Telegram ID администраторов через запятую
 ```
+
+## Примечания
+
+- Шаблоны хранятся в папке `templates/`
+- Заполненные документы — в `filled/`
